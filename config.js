@@ -103,7 +103,7 @@ global.time = d.toLocaleTimeString('en', { hour: '2-digit', minute: '2-digit', s
 global.wm2 = `${dia} ${fecha}\MOHAMMED -𝔹𝕆𝕋`;
 global.gt = '𝗯𝗼𝘁 𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻';
 global.mysticbot = '𝗯𝗼𝘁 𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻';
-global.channel = 'https://chat.whatsapp.com/GwpVRwW4o8z11bctqm9n7Q';
+global.channel = 'https://t.me/Muslim4435';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 
@@ -141,7 +141,7 @@ global.fcon = {key: {participant: '0@s.whatsapp.net', remoteJid: 'status@broadca
 global.fgif2 = {key: {participant: '0@s.whatsapp.net',  ...('6289643739077-1613049930@g.us' ? {remoteJid: '6289643739077-1613049930@g.us'} : {})}, message: {'videoMessage': {'title': '𝔹𝕆𝕋-𝔸𝔹𝔻𝕌𝕃ℝ𝔸ℍ𝕄𝔸ℕ', 'h': `Hmm`, 'seconds': '99999', 'gifPlayback': 'true', 'caption': '𝐁𝐎𝐓-𝐀𝐁𝐃𝐔𝐋𝐑𝐀𝐇𝐌𝐀𝐍', 'jpegThumbnail': false}}};
 global.fgrp = {key: {participant: '0@s.whatsapp.net', remoteJid: '6289643739077-1613049930@g.us', fromMe: false, 'id': wm}, message: {'contactMessage': { 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid= '249111230420@s.whatsapp.net':'249111230420@s.whatsapp.net'\nitem1.X-ABLabel:Ponsel\nEND:VCARD` } }, 'participant': '0@s.whatsapp.net' };
 global.floc = {key: {participant: '0@s.whatsapp.net', remoteJid: 'status@broadcast', fromMe: false}, message: {locationMessage: {degreesLatitude: 37.7749, degreesLongitude: -122.4194, name: 'Palestine', address: 'San Francisco, CA, USA', url: 'https://maps.google.com/?q=37.7749,-122.4194'}}};
-global.frol = {key: {participant: '0@s.whatsapp.net', remoteJid: 'status@broadcast', fromMe: false}, message: {orderMessage: { itemCount: 2024, status: 1, thumbnail: 'https://telegra.ph/file/ba984d78fa802662438ee.jpg', surface: 1, message: wm, orderTitle: packname, sellerJid: '0@s.whatsapp.net' } } };
+global.frol = {key: {participant: '0@s.whatsapp.net', remoteJid: 'status@broadcast', fromMe: false}, message: {orderMessage: { itemCount: 2024, status: 1, thumbnail: 'https://telegra.ph/file/114886805fd5e4a26bf32-77c62eb3379659b3a1.jpg', surface: 1, message: wm, orderTitle: packname, sellerJid: '0@s.whatsapp.net' } } };
 
 global.multiplier = 99;
 global.flaaa = [
