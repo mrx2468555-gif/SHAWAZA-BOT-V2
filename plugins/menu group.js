@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => {
   let videoUrl = 'https://telegra.ph/file/3782975aafc54e78e9d0c.mp4'
   let { name } = global.db.data.users[who]
   m.react('🔕')
-let str = `                  *┃━━━━⬣Astro-𝙱𝙾𝚃⬣━━━━┃*
+let str = `                  *┃━━━━⬣𝗯𝗼𝘁-𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻⬣━━━━┃*
 *【..≼قــســم الجروبات≽..】*
                    ⋄━───═◞⬪🧸⬪◟═───━⋄
 *『 🧸 』 ⇇╎جروبي⌉*
@@ -27,7 +27,7 @@ let str = `                  *┃━━━━⬣Astro-𝙱𝙾𝚃⬣━━━�
 *『 🧸 』 ⇇╎انذار⌉*
 *『 🧸 』 ⇇╎الغاء_الانذار⌉*
 *『 🧸 』 ⇇╎الانذارات⌉*
-                    *┃━━━━⬣Astro-𝙱𝙾𝚃⬣━━━━┃*
+                    *┃━━━━⬣𝗯𝗼𝘁-𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻⬣━━━━┃*
 `
   conn.sendMessage(m.chat, {
            video: { url: videoUrl }, caption: str,
