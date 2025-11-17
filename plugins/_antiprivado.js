@@ -12,7 +12,7 @@ export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) 
 
 const cap = `رساله للجميع  :
 بصفتي  مطور  البوت اود  اخباركم  جميعا انه  يحظر  استخدام البوت  في الخاص وانه  يسمح فقط  باستخدام البوت من  خلال هذه المجموعه  فقط..
-https://chat.whatsapp.com/GwpVRwW4o8z11bctqm9n7Q`;
+https://chat.whatsapp.com/IcEE9lZQpOsL3yOiSc1Tqs`;
    
   if (m.isBaileys && m.fromMe) return !0;
   if (m.isGroup) return !1;
