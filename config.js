@@ -14,22 +14,22 @@ global.authFile = `Session`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['249111230420', 'MOHAMMED-ADEL', true]
+  ['201127562948', 'Abdulrahman Mohammed', true]
 ];
 
-global.ownername = 'MIDO-𝚂𝙷𝙰𝚆𝙰𝚉𝙰';
-global.ownernumber = '249111230420';
-global.myid = '249111230420@s.whatsapp.net';
+global.ownername = '𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻-𝗺𝗼𝗵𝗮𝗺𝗺𝗲𝗱';
+global.ownernumber = '201127562948';
+global.myid = '201127562948@s.whatsapp.net';
   
-global.suittag = ['249111230420', '249128749239'];
-global.prems = ['249111230420', '249128749239'];
+global.suittag = ['201127562948', '201127562948'];
+global.prems = ['201127562948', '201127562948'];
 
-global.packname = 'MOHAMMED-ADEL';
-global.author = 'MIDO-BOT';
+global.packname = '𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻-𝗺𝗼𝗵𝗮𝗺𝗺𝗲𝗱';
+global.author = '𝗯𝗼𝘁-𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻';
 global.wm = 'MIDO-BOT';
-global.titulowm = 'MIDO-BOT';
-global.titulowm2 = `MIDI-BOT`
-global.igfg = 'MIDO-BOT';
+global.titulowm = '𝗯𝗼𝘁-𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻';
+global.titulowm2 = `𝗯𝗼𝘁-𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻`
+global.igfg = '𝗯𝗼𝘁-𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻';
 global.wait = '*「 ▓▓▓▓▓▒▒▒▒░░░ 」 صلي على النبي ي حوب 🧞 ...*';
 
 
@@ -101,8 +101,8 @@ global.time = d.toLocaleTimeString('en', { hour: '2-digit', minute: '2-digit', s
 
 
 global.wm2 = `${dia} ${fecha}\MOHAMMED -𝔹𝕆𝕋`;
-global.gt = 'MIDO-BOT';
-global.mysticbot = 'MIDO-BOT';
+global.gt = '𝗯𝗼𝘁 𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻';
+global.mysticbot = '𝗯𝗼𝘁 𝗮𝗯𝗱𝘂𝗹𝗿𝗮𝗵𝗺𝗮𝗻';
 global.channel = 'https://chat.whatsapp.com/GwpVRwW4o8z11bctqm9n7Q';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
@@ -111,7 +111,7 @@ global.waitt = '*━────── •●• ──────━*\n> [ �
 global.waittt = '*━────── •●• ──────━*\n> [ 🧞 ] جاري التحميل ...\n*━────── •●• ──────━*';
 global.waitttt = '*[*━────── •●• ──────━*\n> [ 🧞 ] جاري التحميل ...\n*━────── •●• ──────━*';
 
-global.nomorown = '249111230420';
+global.nomorown = '201127562948';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 
 global.cmenut = '❖––––––『';
