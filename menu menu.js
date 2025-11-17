@@ -8,12 +8,12 @@ const handler = async (m, { conn, text, usedPrefix: prefijo }) => {
     const mentionId = m.key.participant || m.key.remoteJid;
 
     if (device !== 'desktop' || device !== 'web') {      
-        var joanimiimg = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/efb1c82a1c11caa338b8e.jpg'}}, { upload: conn.waUploadToServer })
+        var joanimiimg = await prepareWAMessageMedia({ image: {url: 'https://telegra.ph/file/114886805fd5e4a26bf32-77c62eb3379659b3a1.jpg'}}, { upload: conn.waUploadToServer })
         const interactiveMessage = {
             body: { text: `test`.trim() },
-            footer: { text: `*Astro-𝘽𝙤𝙩*`.trim() },  
+            footer: { text: `*𝙱𝚘𝚝-𝙰𝚋𝚍𝚞𝚕𝚛𝚊𝚑𝚖𝚊𝚗*`.trim() },  
             header: {
-                title: `*┃━━━━━⬣Astro-𝙱𝙾𝚃⬣━━━━━┃*\n\n*◞❐نورت يا حب بوت استرو🤺🔥*\n\n*◞❐ تفضل القائمة يا  :* @${mentionId.split('@')[0]}\n\n*◞❐اسم البوت : بوت استرو*\n\n*◞❐موقع التنصيب : heroku*\n\n*◞❐البوت يعمل في الخاص والجروبات*\n\n*◞❐يمنع شتم البوت*\n\n*┃━━━━━⬣Astro-𝙱𝙾𝚃⬣━━━━━┃*`,
+                title: `*┃━━━━━⬣𝙱𝚘𝚝-𝙰𝚋𝚍𝚞𝚕𝚛𝚊𝚑𝚖𝚊𝚗⬣━━━━━┃*\n\n*◞❐نورت يا حب بوت عبد الرحمن 🤺🔥*\n\n*◞❐ تفضل القائمة يا  :* @${mentionId.split('@')[0]}\n\n*◞❐اسم البوت : بوت عبدالرحمن*\n\n*◞❐موقع التنصيب : heroku*\n\n*◞❐البوت يعمل في الخاص والجروبات*\n\n*◞❐يمنع شتم البوت*\n\n*┃━━━━━⬣𝙱𝚘𝚝-𝙰𝚋𝚍𝚞𝚕𝚛𝚊𝚑𝚖𝚊𝚗⬣━━━━━┃*`,
                 subtitle: ``,
                 hasMediaAttachment: true,
                 imageMessage: joanimiimg.imageMessage,
