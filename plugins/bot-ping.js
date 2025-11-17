@@ -57,7 +57,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://chat.whatsapp.com/HiP4wq4KssO50q78Wacv0J` },
+    document: { url: `https://whatsapp.com/channel/0029VbBDGhjIiRowpTq9Dz2V` },
     mimetype: `application/${document}`,
     fileName: `Documento`,
     fileLength: 99999999999999,
@@ -66,13 +66,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://chat.whatsapp.com/LFupAQCn2N85kJ3o2H2FLb",
+        mediaUrl: "https://whatsapp.com/channel/0029VbBDGhjIiRowpTq9Dz2V",
         mediaType: 2,
         previewType: "pdf",
         title: "The goku - Bot",
         body: "Repositorio - GitHub",
         thumbnail: imagen1,
-        sourceUrl: "https://chat.whatsapp.com/LFupAQCn2N85kJ3o2H2FLb",
+        sourceUrl: "https://whatsapp.com/channel/0029VbBDGhjIiRowpTq9Dz2V",
       },
     },
     caption: info,
